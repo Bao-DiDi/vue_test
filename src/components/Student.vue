@@ -37,7 +37,7 @@
 		props:{
 			name:{
 				type:String, //name的类型是字符串
-				required:true, //name是必要的
+				required:true, //name是必要的.
 			},
 			age:{
 				type:Number,
